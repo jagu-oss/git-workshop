@@ -1,4 +1,4 @@
-<img width="330" alt="CSES OpenSource Logo" src="https://github.com/user-attachments/assets/d24f488b-a4fb-4de4-a560-4a494fab5210">
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/d5147d48-dcf3-4ee3-8f54-355c8c423c23" />
 
 # Intro to Git
 
